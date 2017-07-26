@@ -1,2 +1,5 @@
 # Hello-me
-First repository 
+
+Hi everyone, 
+
+I'm Julian, and code is a new thing for me. So be gentle ;) 
